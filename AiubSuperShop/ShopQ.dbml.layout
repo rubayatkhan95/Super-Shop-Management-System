@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ShopQ">
+  <DataContextMoniker Name="/ShopQDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8c09d294-b874-4ed0-9463-ae104afea3b5" absoluteBounds="0.625, 0.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/ShopQDataContext/ProductList" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f59ae038-5b40-4f90-80af-e3d96fbe4a69" absoluteBounds="0.63999999999999968, 0.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8784d7d8-58c3-406c-904b-a29907bd4156" absoluteBounds="2.875, 0.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/ShopQDataContext/Employe" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3c30bab4-29d8-476f-9325-1b694bd6fbdf" absoluteBounds="2.8899999999999997, 0.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="00ba3edc-1e59-468a-8e7c-07bf3c248d62" absoluteBounds="5.5, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/ShopQDataContext/Salesman" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b04a9701-d6ca-44cd-992a-4c9b5e837d8c" absoluteBounds="5.515, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

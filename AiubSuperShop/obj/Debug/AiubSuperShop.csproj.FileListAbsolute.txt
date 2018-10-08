@@ -1,0 +1,26 @@
+D:\C#\AiubSuperShop\AiubSuperShop\bin\Debug\AiubSuperShop.exe.config
+D:\C#\AiubSuperShop\AiubSuperShop\bin\Debug\AiubSuperShop.exe
+D:\C#\AiubSuperShop\AiubSuperShop\bin\Debug\AiubSuperShop.pdb
+D:\C#\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.csprojResolveAssemblyReference.cache
+D:\C#\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.Form1.resources
+D:\C#\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.InvoiceView.resources
+D:\C#\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.Properties.Resources.resources
+D:\C#\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.csproj.GenerateResource.Cache
+D:\C#\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.exe
+D:\C#\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.pdb
+D:\C#\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.RegistrationForm.resources
+D:\C#\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.Form2.resources
+D:\C#\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.AdminForm.resources
+E:\Academic\Semester 8\Shamim_Problem\AiubSuperShop\AiubSuperShop\bin\Debug\AiubSuperShop.exe.config
+E:\Academic\Semester 8\Shamim_Problem\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.exe
+E:\Academic\Semester 8\Shamim_Problem\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.pdb
+E:\Academic\Semester 8\Shamim_Problem\AiubSuperShop\AiubSuperShop\bin\Debug\AiubSuperShop.exe
+E:\Academic\Semester 8\Shamim_Problem\AiubSuperShop\AiubSuperShop\bin\Debug\AiubSuperShop.pdb
+E:\Academic\Semester 8\Shamim_Problem\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.csprojResolveAssemblyReference.cache
+E:\Academic\Semester 8\Shamim_Problem\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.AdminForm.resources
+E:\Academic\Semester 8\Shamim_Problem\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.Form1.resources
+E:\Academic\Semester 8\Shamim_Problem\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.Form2.resources
+E:\Academic\Semester 8\Shamim_Problem\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.InvoiceView.resources
+E:\Academic\Semester 8\Shamim_Problem\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.Properties.Resources.resources
+E:\Academic\Semester 8\Shamim_Problem\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.RegistrationForm.resources
+E:\Academic\Semester 8\Shamim_Problem\AiubSuperShop\AiubSuperShop\obj\Debug\AiubSuperShop.csproj.GenerateResource.Cache
